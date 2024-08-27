@@ -7,7 +7,7 @@ Hi there, I'm Arib Arkaan! 👋
 
 📫 You can reach me via email at aribarkan39@gmail.com.
 
-📞 ypu can reach me to this number 081903045973
+📞 you can reach me to this number 081903045973
 
 <!---
 AribArkaan/AribArkaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
